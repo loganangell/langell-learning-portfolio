@@ -1,3 +1,10 @@
+WITH hotels AS (
+	SELECT * FROM dbo.['2018$']
+	UNION
+	SELECT * FROM dbo.['2019$']
+	UNION
+	SELECT * FROM dbo.['2020$'])
+
 SELECT 
 	hotel,
 	arrival_date_year,
