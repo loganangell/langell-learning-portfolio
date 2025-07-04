@@ -1,0 +1,21 @@
+Steph Curry 2023 Shot Analysis – Questions for Head Coach and General Manager
+
+General Performance:
+
+     1. What is Steph Curry’s overall shooting accuracy for the 2023 season?
+
+     2. What are his shooting percentages for 2-point vs 3-point shots?
+
+     3. How many total shots did he attempt and make?
+
+Shot Distance & Efficiency:
+
+     4. What is his field goal percentage at different shot distances (e.g., 0–5 ft, 6–15 ft, 16–24 ft, 25+ ft)?
+
+     5. What distance range is his most efficient shooting zone?
+
+Shot Location (Spatial Analysis):
+
+     6. Provide a visual of Curry's heat zones on where his typically shoots the most?
+
+     7. Provide a visual of Curry's makes and misses?

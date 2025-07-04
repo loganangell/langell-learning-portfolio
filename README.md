@@ -1,0 +1,1 @@
+This folder is used to showcase my learning projects.

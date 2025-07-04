@@ -1,0 +1,34 @@
+Introduction:
+    This project is a guided project from Absent Data (https://youtu.be/S2zBHmkRbhY?si=vWyOUa8GvUHeWT7l).
+    Step-by-Step Guide was also available (https://absentdata.com/data-analysis/data-analysis-mastery-step-by-step-portfolio-project-guide/)
+    As a former hotel manager, this project will help me see hotel operations from a analytical standpoint.
+    My goal is to use the guided practice to help improve my understanding of SQL and PowerBI.
+    Further, I hope to see how analytics can be incorporated with improving hotel performace
+
+Objectives:
+    Create a database with Microsoft SQL Server Management Studio (SSMS)
+    Query and analyze hotel data with SQL
+    Integrate PowerBI with the project's SSMS database
+    Create data visualizations using PowerBI
+    Summarize our findings to present to the stakeholders
+
+Questions by Stakeholders (Hoteliers/Property Ownership):
+    1. Is the hotel revenue growing year over year?
+        a. The stakeholders mentioned that there is two hotel types in the data and would like to segment revenue based on hotel type
+        b. The hotels are "City Hotel" and "Resort Hotel"
+        c. The stakeholders would like to see which hotel is performing better
+        d. Also, the stakeholders would like to know how YTD August 2020 is doing compared to YE 2019
+    2. Which distribution channel is used the most?
+        a. The stakeholders are concerned on each hotel for revenue, so we will also include the distribution channels as well
+        b. We will also look at the discount percentage to see how much revenue is being lost based on each distribution channel
+    3. Do we see an upward trend in parking lot usage?
+        a. The hotels are expected to have a PIP soon and want to look into if there is a growing need for parking spaces (i.e. update the current parking garages)
+
+Key Takeways from Project:
+    1. Refreshed memory on using subquerries, specifically a Common Table Expression, to create a temporary result
+    2. Refreshed memory on SQL commands such as WITH, AS, UNION, and CONCAT
+    3. Integrated the SQL queries in PowerBI to create our table used to create the visuals in the dashboard
+    4. Learned more on how to create visuals in PowerBI
+    5. Summarized findings in a written report, and provided a dashboard for the stakeholders to view different trends
+        a. Filter results by hotel or customer type
+        b. Created an interactive dashboard to find information about specific booking channels or performance
